@@ -1,21 +1,21 @@
-from queue import Queue
 def mySolution(arr):
-    lenth=len(arr)
-    q=Queue()
-    charAray=[0]*26
-    s=""
-    for i in range(lenth):
-        q.put(arr[i])
-        charAray[ord(arr[i])-ord('a')]+=1
-        while not q.empty():
-            if charAray[ord(q.queue[0])-ord('a')]>1:
-                q.get()
-            else:
-                s+=q.queue[0]
-                break
-        if q.empty():
-            s+="#"
+    mp = {}
+    l = []
+    s = ''
+    for i in arr:
+        if i not in mp:
+            mp[i] = 1
+            l.append(i)
+        else:
+            mp[i] = 0
+        while l and mp[l[0]] == 0:
+            l.pop(0)
+        if not l:
+            s += '#'
+        else:
+            s += l[0]
     return s
+
 
 arr="abcabc"
 print(mySolution(arr))

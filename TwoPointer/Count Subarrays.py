@@ -1,22 +1,40 @@
-def mySOlutino(arr):
+def mySolution(arr):
     lenth=len(arr)
-    count=1
-    for i in range(lenth-1):
-        ans=arr[i:]
-        #print(ans)
-        if len(ans)==2:
-            if ans[0]!=ans[1]:
-                count+=2
+    ans=0
+    for i in range(lenth):
+        l=[]
+        for j in range(i,lenth):
+            if arr[j] in l:
+                break
             else:
-                count+=1
-        else:
-            for j in range(len(ans)-1):
-                count+=1
-                if ans[j]==ans[j+1]:
-                    break
-            #print(count)
-    return count
+                l.append(arr[j])
+        ans+=len(l)
+    return ans
 
 
-arr=[1,2,2,3]
-mySOlutino(arr)
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    def solve(self, A):
+        totFreq = {}
+        count = 0
+        n = len(A)
+        i, j = -1, 0
+        mod = 1000000007
+
+        # you can also do below method by lambda 0 with default dict
+        for k in range(0, n):
+            totFreq[A[k]] = 0
+        unqCount = 0
+        for j in range(0, n):
+            totFreq[A[j]] += 1
+            if totFreq[A[j]] >= 2:
+                i += 1
+                while A[i] != A[j]:
+                    totFreq[A[i]] -= 1
+                    i += 1
+                totFreq[A[j]] -= 1
+                unqCount = unqCount + (j - i)
+            else:
+                unqCount = unqCount + (j - i)
+#print(mySolution([1,1,2]))
