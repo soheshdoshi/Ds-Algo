@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37e6c48-5c46-4c9a-bfb4-8981887320d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SoringWithLinkList/Bubble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoringWithLinkList/selection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ds-Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ds-Algo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/Remove Duplicate Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/Remove Duplicate Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Inorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Inorder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/LevelOrder/Density.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/LevelOrder/Density.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +35,50 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.BoundryOfTree">
-    <configuration name="BoundryOfTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CountFullNode">
+    <configuration name="Bottom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ds-Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Misc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Misc/Bottom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CountFullNode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ds-Algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Misc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Misc/CountFullNode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SymwtricBinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/BoundryOfTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/SymwtricBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RevredLevel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Visulaztion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/LevelOrder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/LevelOrder/RevredLevel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visulaztion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="levelorder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maximumheight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,53 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/LevelOrder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/LevelOrder/levelorder.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="printDiagonal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ds-Algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/printDiagonal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="revesedTreePath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Ds-Algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/LevelOrder" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/LevelOrder/revesedTreePath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Misc/maximumheight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BoundryOfTree" />
-        <item itemvalue="Python.printDiagonal" />
-        <item itemvalue="Python.revesedTreePath" />
-        <item itemvalue="Python.RevredLevel" />
-        <item itemvalue="Python.levelorder" />
+        <item itemvalue="Python.CountFullNode" />
+        <item itemvalue="Python.Bottom" />
+        <item itemvalue="Python.maximumheight" />
+        <item itemvalue="Python.Visulaztion" />
+        <item itemvalue="Python.SymwtricBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -215,38 +213,38 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="685" y="239" width="530" height="633" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1588764360343" />
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1588785585645">
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1589107309427">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1588785585645" />
-    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1588785585645">
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309427" />
+    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1589107309425">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1588785585645" />
-    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1588785585644">
+    <state width="1892" height="262" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309425" />
+    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1589107309423">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1588785585644" />
-    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1588785585645">
+    <state width="1892" height="262" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309423" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1589107309426">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1588785585645" />
-    <state width="1892" height="325" key="GridCell.Tab.1.bottom" timestamp="1588774587968">
+    <state width="1892" height="262" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309426" />
+    <state width="1892" height="325" key="GridCell.Tab.1.bottom" timestamp="1588881836887">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="325" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1588774587968" />
-    <state width="1892" height="325" key="GridCell.Tab.1.center" timestamp="1588774587968">
+    <state width="1892" height="325" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1588881836887" />
+    <state width="1892" height="325" key="GridCell.Tab.1.center" timestamp="1588881836887">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="325" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1588774587968" />
-    <state width="1892" height="325" key="GridCell.Tab.1.left" timestamp="1588774587967">
+    <state width="1892" height="325" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1588881836887" />
+    <state width="1892" height="325" key="GridCell.Tab.1.left" timestamp="1588881836887">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="325" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1588774587967" />
-    <state width="1892" height="325" key="GridCell.Tab.1.right" timestamp="1588774587968">
+    <state width="1892" height="325" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1588881836887" />
+    <state width="1892" height="325" key="GridCell.Tab.1.right" timestamp="1588881836887">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="325" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1588774587968" />
+    <state width="1892" height="325" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1588881836887" />
     <state x="324" y="103" key="SettingsEditor" timestamp="1588755609250">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -268,6 +266,11 @@
           <url>file://$PROJECT_DIR$/Tree/LevelOrder/levelorder.py</url>
           <line>29</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree/TreeCinstruction/SpecialBinary.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
