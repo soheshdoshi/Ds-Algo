@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a37e6c48-5c46-4c9a-bfb4-8981887320d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/Inorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Inorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/LevelOrder/Density.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/LevelOrder/Density.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +33,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.CountFullNode">
-    <configuration name="Bottom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2-Sum Binary Tree">
+    <configuration name="2-Sum Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Misc/Bottom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BST/2-Sum Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CountFullNode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="KthSmalletsELemnt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Misc/CountFullNode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BST/KthSmalletsELemnt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SymwtricBinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RecoverBinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/SymwtricBinary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BST/RecoverBinarySearchTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Visulaztion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SumTrre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visulaztion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BST/SumTrre.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximumheight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="checkBst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ds-Algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree/Misc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree/Misc/maximumheight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BST/checkBst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CountFullNode" />
-        <item itemvalue="Python.Bottom" />
-        <item itemvalue="Python.maximumheight" />
-        <item itemvalue="Python.Visulaztion" />
-        <item itemvalue="Python.SymwtricBinary" />
+        <item itemvalue="Python.2-Sum Binary Tree" />
+        <item itemvalue="Python.KthSmalletsELemnt" />
+        <item itemvalue="Python.checkBst" />
+        <item itemvalue="Python.RecoverBinarySearchTree" />
+        <item itemvalue="Python.SumTrre" />
       </list>
     </recent_temporary>
   </component>
@@ -213,22 +211,22 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="685" y="239" width="530" height="633" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1588764360343" />
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1589107309427">
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1589207098183">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309427" />
-    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1589107309425">
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1589207098183" />
+    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1589207098182">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309425" />
-    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1589107309423">
+    <state width="1892" height="262" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1589207098182" />
+    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1589207098181">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309423" />
-    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1589107309426">
+    <state width="1892" height="262" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1589207098181" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1589207098182">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1589107309426" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1589207098182" />
     <state width="1892" height="325" key="GridCell.Tab.1.bottom" timestamp="1588881836887">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -253,6 +251,14 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="687" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.34.1920.1046@0.34.1920.1046" timestamp="1588714111078" />
+    <state x="100" y="132" width="1720" height="848" key="dock-window-1" timestamp="1589386069905">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="100" y="132" width="1720" height="848" key="dock-window-1/0.34.1920.1046@0.34.1920.1046" timestamp="1589386069905" />
+    <state x="100" y="132" width="1720" height="848" key="dock-window-2" timestamp="1589386069906">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="100" y="132" width="1720" height="848" key="dock-window-2/0.34.1920.1046@0.34.1920.1046" timestamp="1589386069906" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
